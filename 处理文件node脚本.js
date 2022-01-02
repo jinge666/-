@@ -52,3 +52,4 @@ function copeFile (src,dest) {
 }
 
 getFiles(filePath)
+console.log('文件整理成功');
